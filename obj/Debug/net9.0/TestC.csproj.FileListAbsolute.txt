@@ -12,3 +12,4 @@ d:\Test_Abc\TestC\obj\Debug\net9.0\refint\TestC.dll
 d:\Test_Abc\TestC\obj\Debug\net9.0\TestC.pdb
 D:\Test_Abc\TestC\obj\Debug\net9.0\TestC.genruntimeconfig.cache
 D:\Test_Abc\TestC\obj\Debug\net9.0\ref\TestC.dll
+d:\Test_Abc\TestC\obj\Debug\net9.0\TestC.sourcelink.json
