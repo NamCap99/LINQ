@@ -1,0 +1,14 @@
+d:\Test_Abc\TestC\bin\Debug\net9.0\TestC.exe
+D:\Test_Abc\TestC\bin\Debug\net9.0\TestC.deps.json
+D:\Test_Abc\TestC\bin\Debug\net9.0\TestC.runtimeconfig.json
+d:\Test_Abc\TestC\bin\Debug\net9.0\TestC.dll
+d:\Test_Abc\TestC\bin\Debug\net9.0\TestC.pdb
+d:\Test_Abc\TestC\obj\Debug\net9.0\TestC.GeneratedMSBuildEditorConfig.editorconfig
+d:\Test_Abc\TestC\obj\Debug\net9.0\TestC.AssemblyInfoInputs.cache
+d:\Test_Abc\TestC\obj\Debug\net9.0\TestC.AssemblyInfo.cs
+d:\Test_Abc\TestC\obj\Debug\net9.0\TestC.csproj.CoreCompileInputs.cache
+d:\Test_Abc\TestC\obj\Debug\net9.0\TestC.dll
+d:\Test_Abc\TestC\obj\Debug\net9.0\refint\TestC.dll
+d:\Test_Abc\TestC\obj\Debug\net9.0\TestC.pdb
+D:\Test_Abc\TestC\obj\Debug\net9.0\TestC.genruntimeconfig.cache
+D:\Test_Abc\TestC\obj\Debug\net9.0\ref\TestC.dll
