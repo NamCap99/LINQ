@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        All.Run();
+        Count.Run();
     }
 
 }
