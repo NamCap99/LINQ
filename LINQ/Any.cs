@@ -3,6 +3,7 @@ using System.Linq;
 
 namespace TestC.LINQ
 {
+    // Refector the AreAllNameValid method using LINQ
     public class Any
     {
         public static bool AreAllNamesValid_Refactored(string[] names)
@@ -31,7 +32,7 @@ namespace TestC.LINQ
             return true;
         }
 
-        public static void example()
+        public static void Run()
         {
             string[] names = { "Nam", "Manh", "Hello Word" };
             bool result = AreAllNamesValid_Refactored(names);
